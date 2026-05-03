@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+clientSideOnly=true
+
+[[mods]]
+modId="vhshorror"
+version="0.1.0-dev"
+displayName="VHS Horror"
+displayTest="IGNORE_ALL_VERSION"
+authors="Codex"
+description='''Client-side Forge 1.20.1 mod that adds subtle VHS audio unease, analog-horror sprint camera motion, and a looped tape buzz without touching visual shaders.'''
+
+[[dependencies.vhshorror]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.vhshorror]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

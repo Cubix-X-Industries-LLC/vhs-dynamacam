@@ -1,0 +1,11 @@
+{
+  "vhs_buzz": {
+    "subtitle": "subtitles.vhshorror.vhs_buzz",
+    "sounds": [
+      {
+        "name": "vhshorror:vhs_buzz",
+        "stream": true
+      }
+    ]
+  }
+}
