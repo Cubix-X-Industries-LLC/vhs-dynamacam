@@ -1,0 +1,30 @@
+{
+  "mappings": {
+    "dev/codex/vhshorror/mixin/SoundEngineAccessor": {
+      "calculatePitch": "m_120324_(Lnet/minecraft/client/resources/sounds/SoundInstance;)F",
+      "instanceToChannel": "f_120226_:Ljava/util/Map;",
+      "calculateVolume": "m_120327_(Lnet/minecraft/client/resources/sounds/SoundInstance;)F"
+    },
+    "dev/codex/vhshorror/mixin/ChannelAccessor": {
+      "source": "f_83642_:I"
+    },
+    "dev/codex/vhshorror/mixin/SoundManagerAccessor": {
+      "soundEngine": "f_120349_:Lnet/minecraft/client/sounds/SoundEngine;"
+    }
+  },
+  "data": {
+    "searge": {
+      "dev/codex/vhshorror/mixin/SoundEngineAccessor": {
+        "calculatePitch": "m_120324_(Lnet/minecraft/client/resources/sounds/SoundInstance;)F",
+        "instanceToChannel": "f_120226_:Ljava/util/Map;",
+        "calculateVolume": "m_120327_(Lnet/minecraft/client/resources/sounds/SoundInstance;)F"
+      },
+      "dev/codex/vhshorror/mixin/ChannelAccessor": {
+        "source": "f_83642_:I"
+      },
+      "dev/codex/vhshorror/mixin/SoundManagerAccessor": {
+        "soundEngine": "f_120349_:Lnet/minecraft/client/sounds/SoundEngine;"
+      }
+    }
+  }
+}
